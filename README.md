@@ -5,7 +5,7 @@ Quick example on how to calculate the difference between two XML files, regardle
 
 It does this by converting the XML in each file to an array, sorting the array and then creating XML from the sorted array. It then uses [PHP-Diff](https://github.com/phpspec/php-diff) to calculate and display the diff between the sorted XML.
 
-You can [try it out here](http://xmldiff.herokuapp.com/).
+You can [try it out here](https://xmldiff.glitch.me/).
 
 ---
 
